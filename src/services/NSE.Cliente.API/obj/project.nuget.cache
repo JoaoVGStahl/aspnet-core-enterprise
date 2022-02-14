@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iEyK9blbMxJK3vo13AD5f7oRyJABB5rxl7P3bqMXmoR+7LL7Km/sEZ1CHlg6eWZmyvNigO9QFxya9M5bWAWF9A==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\aspnet-core-enterprise\\src\\services\\NSE.Cliente.API\\NSE.Cliente.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jvito\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}

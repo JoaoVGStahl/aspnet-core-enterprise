@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZYh59KbT+0D1/+R8zjB/xTbWqmqdjYVqR/dLM3dvT/MJjRIcBduVltrEpIWasw2ZQFNgaYGaBAvVrNmjw+4crw==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\aspnet-core-enterprise\\src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jvito\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}

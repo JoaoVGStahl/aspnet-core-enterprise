@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VCFqLLd7ypKuUd00RLko+snHuNEewpKgvtch+2qcRkQ131G+WGnKWOzfUDVZLNWLqkfe64KjHvf4NtxtBTRP0g==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\aspnet-core-enterprise\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jvito\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
