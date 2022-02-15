@@ -1,0 +1,10 @@
+C:\dev\aspnet-core-enterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.deps.json
+C:\dev\aspnet-core-enterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\dev\aspnet-core-enterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
+C:\dev\aspnet-core-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.AssemblyReference.cache
+C:\dev\aspnet-core-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\aspnet-core-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfoInputs.cache
+C:\dev\aspnet-core-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfo.cs
+C:\dev\aspnet-core-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\dev\aspnet-core-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\dev\aspnet-core-enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb

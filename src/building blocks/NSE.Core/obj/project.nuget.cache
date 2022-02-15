@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "kGNAG6JuPULx7yHPPP/PGoS9aGwPwN8ZWrxXcccZ0p1F7mm/+bc91qF8it3IN6Rtf9dH9PSSPoclksXp4oNsNw==",
+  "dgSpecHash": "2uov59/w42A9S+rsCuaC9JBSZDfV2y/5GPVwYSPPq41VJCeLKSGijlgWZ2rFHiwiQW2f006PH7DSdPiYxXK9bg==",
   "success": true,
   "projectFilePath": "C:\\dev\\aspnet-core-enterprise\\src\\building blocks\\NSE.Core\\NSE.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Jvito\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\Jvito\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\Jvito\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Jvito\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Jvito\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\Jvito\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
   "logs": []
 }

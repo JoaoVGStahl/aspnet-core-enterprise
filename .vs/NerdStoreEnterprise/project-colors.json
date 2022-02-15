@@ -5,7 +5,12 @@
       "ProjectGuid": "67c7bf5b-9716-45db-ae14-fa9b7db9a519",
       "DisplayName": "NSE.Identidade.API",
       "ColorIndex": 0
+    },
+    "6c4032d4-7aeb-49c7-a551-f5b84d3945bb": {
+      "ProjectGuid": "6c4032d4-7aeb-49c7-a551-f5b84d3945bb",
+      "DisplayName": "NSE.WebApp.MVC",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

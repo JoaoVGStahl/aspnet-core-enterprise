@@ -7,6 +7,9 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcorea
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.runtimeconfig.dev.json
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.pdb
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\EasyNetQ.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\MediatR.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
@@ -45,10 +48,14 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcorea
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Polly.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
@@ -60,6 +67,12 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcorea
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.pdb
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.AssemblyReference.cache
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.AssemblyInfoInputs.cache

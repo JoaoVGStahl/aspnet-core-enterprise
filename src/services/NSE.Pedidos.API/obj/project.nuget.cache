@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k08sNrassTACnm6/FzD2aKfEnoZd6+TA2kU36fQqeO1Q45dfQFf5nX597sONusQWFdkzB8lSkdKKAipZH7+v+g==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\aspnet-core-enterprise\\src\\services\\NSE.Pedidos.API\\NSE.Pedidos.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jvito\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
