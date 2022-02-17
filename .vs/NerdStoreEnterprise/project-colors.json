@@ -10,7 +10,17 @@
       "ProjectGuid": "6c4032d4-7aeb-49c7-a551-f5b84d3945bb",
       "DisplayName": "NSE.WebApp.MVC",
       "ColorIndex": 1
+    },
+    "5f298bad-0ea5-4cdf-b7b7-9d709e50ab92": {
+      "ProjectGuid": "5f298bad-0ea5-4cdf-b7b7-9d709e50ab92",
+      "DisplayName": "NSE.Clientes.API",
+      "ColorIndex": 2
+    },
+    "f1468795-2bf8-47d6-a2d5-676713cab112": {
+      "ProjectGuid": "f1468795-2bf8-47d6-a2d5-676713cab112",
+      "DisplayName": "NSE.Core",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }
