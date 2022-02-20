@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mwSk4uNXb4L0q5E4N7ISRSzrvsOR5dZWeM3HdMyCcUM+Dv1K5N+OmepalygK6lJcPSKcxFZs8JbetjfAgQw/jg==",
+  "dgSpecHash": "a+syscjazxVkZeBwSInijoQaTVPS8fZYf7plkhTiECznzbHBrRgpK8v28Bdww8znOshN5mF+q2RXijrkGpERUQ==",
   "success": true,
   "projectFilePath": "C:\\dev\\aspnet-core-enterprise\\src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
   "expectedPackageFiles": [
