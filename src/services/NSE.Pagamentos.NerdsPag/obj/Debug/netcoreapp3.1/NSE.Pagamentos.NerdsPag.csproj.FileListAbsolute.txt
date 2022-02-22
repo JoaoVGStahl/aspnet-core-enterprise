@@ -1,0 +1,10 @@
+C:\dev\aspnet-core-enterprise\src\services\NSE.Pagamentos.NerdsPag\bin\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.deps.json
+C:\dev\aspnet-core-enterprise\src\services\NSE.Pagamentos.NerdsPag\bin\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Pagamentos.NerdsPag\bin\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.pdb
+C:\dev\aspnet-core-enterprise\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.csproj.AssemblyReference.cache
+C:\dev\aspnet-core-enterprise\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\aspnet-core-enterprise\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.AssemblyInfoInputs.cache
+C:\dev\aspnet-core-enterprise\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.AssemblyInfo.cs
+C:\dev\aspnet-core-enterprise\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.csproj.CoreCompileInputs.cache
+C:\dev\aspnet-core-enterprise\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.pdb

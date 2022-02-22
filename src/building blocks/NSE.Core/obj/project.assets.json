@@ -53,6 +53,19 @@
           "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {}
         }
       },
+      "NetDevPack/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "8.6.2",
+          "mediatr": "8.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/NetDevPack.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NetDevPack.dll": {}
+        }
+      },
       "System.ComponentModel.Annotations/4.4.1": {
         "type": "package",
         "compile": {
@@ -144,6 +157,19 @@
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
         "microsoft.extensions.primitives.3.1.4.nupkg.sha512",
         "microsoft.extensions.primitives.nuspec"
+      ]
+    },
+    "NetDevPack/1.1.0": {
+      "sha512": "pEeSxtDUKHC1mNwFHikn2WuArzgKYIQ/MLto5xrEKAZGc5MBUuTmFHeRtlwbm2dyU5RvT0Xe/chwRJt0ezN7bg==",
+      "type": "package",
+      "path": "netdevpack/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "IconNuget.png",
+        "lib/netstandard2.0/NetDevPack.dll",
+        "netdevpack.1.1.0.nupkg.sha512",
+        "netdevpack.nuspec"
       ]
     },
     "System.ComponentModel.Annotations/4.4.1": {
@@ -239,6 +265,7 @@
       "FluentValidation >= 8.6.2",
       "Microsoft.Extensions.Configuration.Abstractions >= 3.1.4",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 3.1.4",
+      "NetDevPack >= 1.1.0",
       "mediatr >= 8.0.1"
     ]
   },
@@ -296,6 +323,10 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": {
             "target": "Package",
             "version": "[3.1.4, )"
+          },
+          "NetDevPack": {
+            "target": "Package",
+            "version": "[1.1.0, )"
           },
           "mediatr": {
             "target": "Package",

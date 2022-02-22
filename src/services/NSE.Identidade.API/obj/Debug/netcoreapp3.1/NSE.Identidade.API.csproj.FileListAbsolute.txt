@@ -34,6 +34,8 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcorea
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
@@ -47,8 +49,14 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcorea
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NetDevPack.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NetDevPack.Security.JwtExtensions.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NetDevPack.Security.JwtSigningCredentials.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NetDevPack.Security.JwtSigningCredentials.AspNetCore.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NetDevPack.Security.JwtSigningCredentials.Store.EntityFrameworkCore.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Polly.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -59,6 +67,7 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcorea
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
@@ -87,3 +96,4 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcorea
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.pdb
 C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.genruntimeconfig.cache
+C:\dev\aspnet-core-enterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\appsettings.Production.json

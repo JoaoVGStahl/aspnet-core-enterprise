@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2uov59/w42A9S+rsCuaC9JBSZDfV2y/5GPVwYSPPq41VJCeLKSGijlgWZ2rFHiwiQW2f006PH7DSdPiYxXK9bg==",
+  "dgSpecHash": "ThiLlAV47r1go+NwjVWAeS9c+f0J/Z3ig+M0OYs08wh3a7rTfv+CkNHRWZ1qfU/9BJOkWkyBZyriSTU0KU/YhA==",
   "success": true,
   "projectFilePath": "C:\\dev\\aspnet-core-enterprise\\src\\building blocks\\NSE.Core\\NSE.Core.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\Jvito\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
     "C:\\Users\\Jvito\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
     "C:\\Users\\Jvito\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\Jvito\\.nuget\\packages\\netdevpack\\1.1.0\\netdevpack.1.1.0.nupkg.sha512",
     "C:\\Users\\Jvito\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
   ],
   "logs": []

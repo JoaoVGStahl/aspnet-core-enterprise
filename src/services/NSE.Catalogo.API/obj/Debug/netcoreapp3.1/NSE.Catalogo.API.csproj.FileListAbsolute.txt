@@ -6,6 +6,8 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NSE.Catalogo.API.runtimeconfig.dev.json
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NSE.Catalogo.API.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NSE.Catalogo.API.pdb
+C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\EasyNetQ.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\MediatR.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
@@ -24,6 +26,8 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
@@ -35,7 +39,12 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NetDevPack.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NetDevPack.Security.JwtExtensions.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Polly.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -45,6 +54,7 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
@@ -54,8 +64,10 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.pdb
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\NSE.Catalogo.API.csproj.AssemblyReference.cache
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\NSE.Catalogo.API.GeneratedMSBuildEditorConfig.editorconfig
@@ -70,3 +82,4 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\NSE.Catalogo.API.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\NSE.Catalogo.API.pdb
 C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\NSE.Catalogo.API.genruntimeconfig.cache
+C:\dev\aspnet-core-enterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\appsettings.Production.json

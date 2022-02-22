@@ -32,6 +32,8 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
@@ -51,9 +53,12 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\NetDevPack.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\NetDevPack.Security.JwtExtensions.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Polly.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -69,6 +74,7 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
@@ -148,3 +154,4 @@ C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\obj\Debug\netcoreapp
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\obj\Debug\netcoreapp3.1\NSE.Clientes.API.dll
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\obj\Debug\netcoreapp3.1\NSE.Clientes.API.pdb
 C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\obj\Debug\netcoreapp3.1\NSE.Clientes.API.genruntimeconfig.cache
+C:\dev\aspnet-core-enterprise\src\services\NSE.Clientes.API\bin\Debug\netcoreapp3.1\appsettings.Productiont.json
